@@ -1,0 +1,179 @@
+[INFO  - 2018-03-15T07:41:14.921Z] GhostDriver - Main - running on port 63687
+[INFO  - 2018-03-15T07:41:17.234Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-03-15T07:41:17.234Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.customHeaders:  - {}
+[INFO  - 2018-03-15T07:41:17.234Z] Session [3ecaec60-2824-11e8-a829-693073949273] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-03-15T07:41:17.234Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3ecaec60-2824-11e8-a829-693073949273
+[INFO  - 2018-03-15T07:44:51.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T07:49:51.700Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T07:54:51.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T07:59:51.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:04:51.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:09:51.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:14:51.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:19:51.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:24:51.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:29:51.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:34:51.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:39:51.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:40:36.547Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:40:04.640Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:26:20.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:31:20.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:36:20.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:41:20.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:39:18.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+fail.shtml?id=Darius:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:43:34.729Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:43:34.729Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Camille:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Camille:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:04.430Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:04.430Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Ivern:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Ivern:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:15.907Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:15.907Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Illaoi:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Illaoi:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:44.911Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:44:44.911Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Gnar:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Gnar:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:45:18.818Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.j[INFO  - 2018-03-15T07:47:23.247Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T07:52:23.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T07:57:23.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:02:23.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:07:23.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:12:23.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:17:23.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:22:23.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:27:23.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:32:23.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:37:23.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:41:57.487Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:38:26.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+s function) (http://lol.qq.com/web201310/info-defail.shtml?id=Kindred:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:46:47.580Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:46:47.580Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Kayn:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Kayn:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:47:33.481Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:47:33.482Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Jhin:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Jhin:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:48:31.047Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:48:31.047Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Ornn:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Ornn:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-15T07:51:14.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-03-15T07:51:54.337Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:51:54.338Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Rakan:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Rakan:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:52:43.025Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:52:43.025Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Taliyah:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Taliyah:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:52:48.603Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:52:48.604Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=TahmKench:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=TahmKench:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:55:57.394Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:55:57.395Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Xayah:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Xayah:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-15T07:56:14.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-03-15T07:57:10.429Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - msg: TypeError: undefined is not an object (evaluating 'selfdata.buylink')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-15T07:57:10.430Z] Session [3ecaec60-2824-11e8-a829-693073949273] - page.onError - stack:
+  showVideosDialogs (http://lol.qq.com/web201310/info-defail.shtml?id=Zoe:465)
+  (anonymous function) (http://lol.qq.com/web201310/info-defail.shtml?id=Zoe:546)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+  (anonymous function) (http://ossweb-img.qq.com/images/js/milo_bundle/milo.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-15T08:01:14.947Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:06:14.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:11:14.947Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:16:14.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:21:14.952Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:26:14.953Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:31:14.953Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-15T08:36:14.953Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
